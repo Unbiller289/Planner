@@ -1,2 +1,2 @@
-# Planner
+# Planner Type
 A planner
